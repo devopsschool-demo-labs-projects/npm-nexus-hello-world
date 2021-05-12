@@ -1,0 +1,17 @@
+{
+  "name": "devopsschool",
+  "version": "1.0.0",
+  "description": "This is devopsschool npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajesh Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "publishConfig": {
+    "registry": "http://15.206.81.210:8081/repository/npm-hosted-all/"
+  }
+}
