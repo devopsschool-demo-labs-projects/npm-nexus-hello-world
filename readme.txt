@@ -66,7 +66,7 @@ https://help.sonatype.com/repomanager2/node-packaged-modules-and-npm-registries
 https://blog.sonatype.com/custom-node-module-management-using-private-npm-registry-configured-in-nexus-repository
 https://blog.sonatype.com/using-nexus-3-as-your-repository-part-2-npm-packages
 
-
+https://github.com/devopsschool-demo-labs-projects/npm-nexus-hello-world
 
 
 
